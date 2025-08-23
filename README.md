@@ -28,10 +28,6 @@ JavaScript (Vanilla) – Logic for cart, filters, and checkout
 ⚡ Getting Started
 
 Clone the repo
-
-git clone https://github.com/your-username/mini-ecommerce.git
-
-
 Open the project
 Just open index.html in your browser.
 
